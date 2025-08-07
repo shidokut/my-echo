@@ -1,5 +1,5 @@
 NAME := my-echo
-REPOSITORY := sora/$(NAME)
+REPOSITORY := luminath/$(NAME)
 TAG := 20240807
 GOOS := linux
 GOARCH := amd64
